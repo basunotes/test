@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 abcde
-=======
-bugdfdf fix
->>>>>>> feature
+
